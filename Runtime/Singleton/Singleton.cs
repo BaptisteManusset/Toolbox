@@ -2,10 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 
 using UnityEngine;
-
-namespace UnityCommunity.UnitySingleton
-{
-
     public enum SingletonInitializationStatus
     {
         None,
@@ -119,5 +115,4 @@ namespace UnityCommunity.UnitySingleton
         #endregion
 
     }
-
-}
+    

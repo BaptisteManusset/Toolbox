@@ -1,12 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-
-using UnityCommunity.UnitySingleton;
-
 using UnityEngine;
-
-namespace UnityCommunity.UnitySingleton
-{
 
     /// <summary>
     /// This singleton is persistent across scenes by calling <see cref="UnityEngine.Object.DontDestroyOnLoad(Object)"/>.
@@ -29,5 +23,4 @@ namespace UnityCommunity.UnitySingleton
         #endregion
 
     }
-
-}
+    

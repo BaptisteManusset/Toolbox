@@ -3,9 +3,6 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-namespace UnityCommunity.UnitySingleton
-{
-
     /// <summary>
     /// The singleton interface.
     /// </summary>
@@ -17,5 +14,3 @@ namespace UnityCommunity.UnitySingleton
         public void ClearSingleton();
 
     }
-
-}
