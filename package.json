@@ -1,0 +1,12 @@
+﻿{
+  "name": "com.itsbaptiste.toolbox",
+  "version": "1.0.0",
+  "displayName": "Toolbox",
+  "description": "toolbox of code",
+  "unity": "6000.0",  
+  "unityRelease": "34f1",
+  "author": {
+    "name": "Baptiste",
+    "email": "baptiste.manusset@proton.me"
+  }
+}
